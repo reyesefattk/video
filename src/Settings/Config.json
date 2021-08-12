@@ -1,0 +1,44 @@
+{
+    "Yetkili": {
+        "AbilityYT": "",
+        "BanYT": "",
+        "jailYT": "",
+        "muteYT": "",
+        "vmuteYT": "",
+        "registerYT": ""
+    },
+    "Roller": {
+        "Jailed": "",
+        "Muted": "",
+        "VMuted": "",
+        "Booster": ""
+    },
+    "Register": {
+        "e1": "",
+        "e2": "",
+        "e3": "",
+        "k1": "",
+        "k2": "",
+        "k3": "",
+        "unreg": "",
+        "süpheli": "",
+        "TagRol": ""
+    },
+    "Log": {
+        "HosgeldinKanal": "",
+        "Sohbet": "",
+        "RolLog": "",
+        "SesLog": "",
+        "ModLog": "",
+        "CezaPuanLog": "",
+        "BanLog": "",
+        "MuteLog": "",
+        "JailLog": "",
+        "VMuteLog": "",
+        "RegisterLog": ""
+    },
+    "Diger": {
+        "onay": "",
+        "red":""
+    }
+}
